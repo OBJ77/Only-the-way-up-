@@ -1,0 +1,3 @@
+WHAT DOES THE TAG (<meta chartset="UTF-8">) MEANS?
+
+The tag tells the browser what character encoding to use for the web page. "Chartset" stands for character set, and "UTF-8" is a type of character encoding that supports a wide range of characters from different languages and alphabets. Using this meta tag ensures that this browser will display the page correctly, no matter what language it's written in.  
